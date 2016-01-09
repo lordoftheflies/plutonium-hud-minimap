@@ -13,7 +13,7 @@
     "hud",
     "map"
   ],
-  "main": "seed-element.html",
+  "main": "plutonium-hud-minimap.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/lordoftheflies/plutonium-hud-minimap/",
   "ignore": [
